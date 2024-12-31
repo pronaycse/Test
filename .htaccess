@@ -1,0 +1,4 @@
+<Directory "/path/to/your/web/files">
+    AllowOverride All
+    Require all granted
+</Directory>
